@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/6HzPJ6c/why-icon-2.png",
+      "type": "Hygienic Food",
+      "description": "We prioritize food safety and cleanliness to ensure that every dish  is prepared in a hygienic environment, so everyone can enjoy their meal with peace of mind."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/B4K6Z2y/why-icon-1.png",
+      "type": "Fresh Environment",
+      "description": "We offers a fresh and welcoming atmosphere. We believe in creating a comfortable environment where everyone can savor their meal and make lasting memories."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/VjJFfTb/why-icon-3.png",
+      "type": "Skilled Cook",
+      "description": "Our skilled cooks is dedicated to crafting delicious and innovative dishes that delight everyone taste buds."
+    }
+   
+  ]
